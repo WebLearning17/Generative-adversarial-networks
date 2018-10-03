@@ -6,7 +6,7 @@
 
 
 ## Generative Adversarial Networks (GANs)
-### Lists (Table is borrowed from [tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections))
+### Lists 
 
 *Name* | *Paper Link* | *Value Function*
 :---: | :---: | :--- |
